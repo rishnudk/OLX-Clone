@@ -5,8 +5,8 @@ import guitar from '../../assets/guitar.png'
 import love from '../../assets/love.png'
 import avatar from '../../assets/avatar.png'
 import close from '../../assets/close.svg'
-// import { signInWithPopup } from "firebase/auth"
-// import { auth, provider } from "../Firebase/Firebase"
+import { signInWithPopup } from "firebase/auth"
+import { auth, provider } from "../Firebase/Firebase"
 
 
 
